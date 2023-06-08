@@ -1,1 +1,1 @@
-# 💡 | Project-Ideas
+# 💡 | Project-Ideas-Collection
