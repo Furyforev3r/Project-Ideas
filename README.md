@@ -15,3 +15,5 @@
 ## ⚠️ | Disclaimer
 _**While we have made every effort to provide interesting and challenging project ideas, it is important to remember that the responsibility to comply with all applicable laws and regulations lies with you, the developer. Additionally, some ideas may involve the use of third-party resources, APIs, or data subject to specific terms of service. Please make sure to respect those terms when developing your project.**_
 
+## 📝 | License
+**This repository is licensed under the _MIT License._ Feel free to use the project ideas presented here, modify the code, and adapt it to your needs. However, we are not responsible for any issues arising from the use of these ideas or the provided code. Exercise caution and review all code before using it in production projects.**
