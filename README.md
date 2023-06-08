@@ -1,4 +1,4 @@
-![Project Ideas](https://github.com/Furyforev3r/Project-Ideas/assets/88341564/4ce69731-9869-41ee-8e70-1ba69da2f6ff)
+![Project Ideas](https://github.com/Furyforev3r/Project-Ideas/assets/88341564/16d18835-0967-4ae4-bfc0-70ee1d0331c6)
 # 💡 | Project-Ideas-Collection
 
 **Welcome to the Project-Ideas-Collection! Here you will find a collection of suggestions and inspirations to develop interesting and diverse projects, suitable for showcasing your skills and knowledge in programming. Feel free to explore the ideas and use them as a starting point to build your impressive portfolio.**
